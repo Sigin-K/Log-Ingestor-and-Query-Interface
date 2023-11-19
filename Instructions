@@ -1,0 +1,35 @@
+# Log Ingestor and Query Interface
+
+## Project Overview
+
+This project implements a log ingestor system and a query interface to efficiently handle and search through vast volumes of log data. The system is designed to ingest logs over HTTP and provides a user-friendly interface for querying logs based on various parameters.
+
+## How to Run the Project
+
+### Log Ingestor
+
+1. Clone the repository:
+
+   git clone https://github.com/your-username/log-ingestor.git
+
+2. Navigate to the log-ingestor directory:
+
+  cd log-ingestor
+
+3. Install dependencies:
+
+  npm install
+
+4. Start the log ingestor server:
+
+  node server.js
+
+5. Similarly, start the query interface server:
+
+  node query.js
+
+  
+
+  
+
+  
