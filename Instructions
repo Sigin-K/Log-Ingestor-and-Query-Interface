@@ -29,7 +29,8 @@ This project implements a log ingestor system and a query interface to efficient
   node query.js
 
   
-
+[The log ingestor will be running on http://localhost:3000 by default.]
+[The query interface will be running on http://localhost:4000 by default.]
   
 
   
